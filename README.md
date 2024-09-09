@@ -1,1 +1,1 @@
-# Netflix-Clone
+# Movie Streaming Application
